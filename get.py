@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup as bs
 import datetime
 import os
 import json
-import requests
 
 doc = '''
     #paste html
